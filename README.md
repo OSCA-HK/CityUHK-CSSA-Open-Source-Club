@@ -2,7 +2,7 @@
 
 ✨ **Shape the Future with Code｜CityUHK CSSA Open Source Club** ✨  
 
-📍 CityUHK CSSA Open Source Club is the **FIRST** open-source community established among all Hong Kong Universities! Founded by students passionate about technology and open-source culture, our core members specialize in solving industry-level challenges with open-source technologies. Members boast hands-on experience at top-tier companies (Microsoft/Huawei/Alibaba, etc.) and award-winning track records in open-source competitions 🫶🏻.  
+📍 **CityUHK CSSA Open Source Club** is the **FIRST** open-source community established among all Hong Kong Universities! Founded by students passionate about technology and open-source culture, our core members specialize in solving industry-level challenges with open-source technologies. Members boast hands-on experience at top-tier companies (Microsoft/Huawei/Alibaba, etc.) and award-winning track records in open-source competitions 🫶🏻.  
 
 ☄️ We will guide you to:  
 ▶ Participate in global open-source competitions like [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) and [Open Source Promotion Plan (OSPP)](https://summer-ospp.ac.cn/).  
