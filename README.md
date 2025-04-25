@@ -11,7 +11,7 @@
 
 We welcome all coding enthusiasts who aspire to tackle real-world problems with technology! 🚀 Outstanding member may even self-recommend as a **MENTOR** for the community!
 
-💡 Contact: 
+## Maintainer
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/SeanLmax">
     <img src="https://avatars.githubusercontent.com/SeanLmax" width="50px" height="50px" style="border-radius: 50%"/>
@@ -19,4 +19,12 @@ We welcome all coding enthusiasts who aspire to tackle real-world problems with 
   <a href="https://github.com/xxyuue">
     <img src="https://avatars.githubusercontent.com/xxyuue" width="50px" height="50px" style="border-radius: 50%"/>
   </a>
+</div>
+
+## Contributor
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/SeanLmax">
+    <img src="https://avatars.githubusercontent.com/SeanLmax" width="50px" height="50px" style="border-radius: 50%"/>
+  </a>
+  
 </div>
