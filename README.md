@@ -22,7 +22,7 @@ We welcome all coding enthusiasts who aspire to tackle real-world problems with 
 </div>
 
 ### Hiring Co-Founders!
-If you are interested in becoming a Co-Founder, please contact [sean.lixiang@aliyun.com](sean.lixiang@aliyun.com) with the email subject:
+If you are interested in becoming a Co-Founder, please contact [sean.lixiang@aliyun.com](mailto:sean.lixiang@aliyun.com?subject=Co-founder%20in%20CityU%20Open%20Source%20Club%20-%20Your%20Name) with the email subject:
 ```
 [Co-founder in CityU Open Source Club] Your Name.
 ```
