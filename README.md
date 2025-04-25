@@ -11,7 +11,7 @@
 
 We welcome all coding enthusiasts who aspire to tackle real-world problems with technology! 🚀 Outstanding member may even self-recommend as a **MENTOR** for the community!
 
-## Maintainer
+## Co-funder
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/SeanLmax">
     <img src="https://avatars.githubusercontent.com/SeanLmax" width="50px" height="50px" style="border-radius: 50%"/>
@@ -21,7 +21,19 @@ We welcome all coding enthusiasts who aspire to tackle real-world problems with 
   </a>
 </div>
 
-## Contributor
+## Hiring Co-Founders!
+If you are interested in becoming a Co-Founder, please contact [sean.lixiang@aliyun.com](sean.lixiang@aliyun.com) with the email subject:
+```
+[Co-founder in CityU Open Source Club] Your Name.
+```
+
+### Requirements for Co-founder Recruitment
+- Passionate about open source and technology.  
+- Prior experience in open-source communities is preferred. Bonus if you have participated in open-source competitions like **GSoC** (Google Summer of Code) or **OSPP** (Open Source Promotion Plan).  
+- No strict requirements on academic/professional background, but candidates should ideally be **based in Hong Kong 🇭🇰** to regularly attend our **offline open-source workshops**.  
+- Co-founders must be able to serve as **instructors** (proficient in **🇬🇧 English**, **🇭🇰 Cantonese**, or **🇨🇳 Mandarin**).  
+
+## Member
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/SeanLmax">
     <img src="https://avatars.githubusercontent.com/SeanLmax" width="50px" height="50px" style="border-radius: 50%"/>
