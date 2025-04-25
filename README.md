@@ -17,6 +17,6 @@ We welcome all coding enthusiasts who aspire to tackle real-world problems with 
     <img src="https://avatars.githubusercontent.com/SeanLmax" width="50px" height="50px" style="border-radius: 50%"/>
   </a>
   <a href="https://github.com/xxyuue">
-    <img src="https://avatars.githubusercontent.com/MF0-ANT1SHY" width="50px" height="50px" style="border-radius: 50%"/>
+    <img src="https://avatars.githubusercontent.com/xxyuue" width="50px" height="50px" style="border-radius: 50%"/>
   </a>
 </div>
